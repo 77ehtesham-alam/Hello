@@ -1,4 +1,6 @@
+"""Simple module to print messages to the console."""
+
 print("hii world")
-print("hii")
-a = 4
+print("hiii")
+A = 4
 print(a)
