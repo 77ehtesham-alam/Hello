@@ -1,6 +1,7 @@
+"""Module docstring: Description of what the module does."""
 print("hii world")
-print("hii")
-x = 1
-y = 2
-c = 3
+print("hiii")
+X = 1
+Y = 2
+C = 3
 print(c)
