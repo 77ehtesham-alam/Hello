@@ -3,5 +3,5 @@ print("hii world")
 print("hiii")
 X = 1
 Y = 2
-C = 3
-print(c)
+c= 3
+print(d)
