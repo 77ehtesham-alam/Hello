@@ -1,7 +1,7 @@
-"""Module docstring: Description of what the module does."""
+
 print("hii world")
 print("hiii")
 X = 1
-Y = 2
+= 2
 c = 3
 print(d)
