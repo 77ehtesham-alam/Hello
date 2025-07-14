@@ -2,6 +2,6 @@
 print("hii world")
 print("hiii")
 X = 1
-Y = 2
+y = 2
 C = 3
-print(c)
+print(dc)
