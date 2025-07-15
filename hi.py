@@ -1,5 +1,5 @@
 
-"""Simple script to print greetings."""
+"""Simple greeting script."""
 
 print("hii world")
 print("hiii")
