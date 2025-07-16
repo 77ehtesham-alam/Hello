@@ -1,7 +1,7 @@
 
-"""Simple script to print greetings."""
-
 print("hii world")
 print("hiii")
 X = 1
-# # # b
+b = 2
+a = 3
+print(d)
