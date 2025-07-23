@@ -1,8 +1,7 @@
 
 # Simple script to print greetings.
 
-print("hii world")
-print("hiii")
+print("hi world")
+print("hi world")
 X = 1
 # # #
-
